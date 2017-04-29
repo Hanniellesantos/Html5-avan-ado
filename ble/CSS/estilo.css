@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+Header{
+  background-color: rgb(161,207,255);
+}
+#logo{
+  width:150px;
+  margin:10px;-top
+}
+#listamenu{
+  border:1px solid red;
+  list-style: none;
+  display:inline-table;
+  position: relative;
+  bottom: -6px;
+}
+.limenu{
+  float:left;
+  border:1px solid blue;
+}
