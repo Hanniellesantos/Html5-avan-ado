@@ -1,0 +1,24 @@
+@charset "UTF-8";
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+}
+ul{
+  display:inline-table;
+}
+li{
+  float: left;
+  list-style: none;
+  margin-left: 10px;
+}
+
+#listamenu{
+  margin-left:30%;
+}
+.limenu{
+  font-size:25px;
+  color:black;
+  font-family: sans-serif;
+}
